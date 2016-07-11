@@ -6,7 +6,8 @@
 	- dynamic allocation and pointers - http://stackoverflow.com/questions/22146094/why-should-i-use-a-pointer-rather-than-the-object-itself?rq=1
 	- creating a programming language - http://eloquentjavascript.net/11_language.html
 	- optimizing data in SQL - http://dev.mysql.com/doc/refman/5.7/en/data-size.html
-	- -creating a database in netbeans - https://netbeans.org/kb/docs/ide/mysql.html
+	- creating a database in netbeans - https://netbeans.org/kb/docs/ide/mysql.html
+	- php docs - https://www.phpmyadmin.net/docs/
 	
 #### Interesting
 	- == and != independence - http://stackoverflow.com/questions/37800001/are-and-mutually-dependent
