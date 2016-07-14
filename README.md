@@ -9,6 +9,7 @@
 	- creating a database in netbeans - https://netbeans.org/kb/docs/ide/mysql.html
 	- php docs - https://www.phpmyadmin.net/docs/
 	- managing MySQL databases with phpMyAdmin - https://www.siteground.com/tutorials/phpmyadmin/
+	- API database - http://www.programmableweb.com/category/all/apis
 	
 #### Interesting
 	- == and != independence - http://stackoverflow.com/questions/37800001/are-and-mutually-dependent
