@@ -10,8 +10,9 @@
 	- php docs - https://www.phpmyadmin.net/docs/
 	- managing MySQL databases with phpMyAdmin - https://www.siteground.com/tutorials/phpmyadmin/
 	- API database - http://www.programmableweb.com/category/all/apis
+	- pyplot for python - http://matplotlib.org/users/pyplot_tutorial.html#working-with-text
 	
 #### Interesting
 	- == and != independence - http://stackoverflow.com/questions/37800001/are-and-mutually-dependent
 	- compiler compiling itself - http://stackoverflow.com/questions/38005656/how-can-a-compiler-compile-itself
-	- pyplot for python - http://matplotlib.org/users/pyplot_tutorial.html#working-with-text
+	- reverse engineering the Pokemon Go app - https://applidium.com/en/news/unbundling_pokemon_go/
