@@ -11,6 +11,7 @@
 	- managing MySQL databases with phpMyAdmin - https://www.siteground.com/tutorials/phpmyadmin/
 	- API database - http://www.programmableweb.com/category/all/apis
 	- pyplot for python - http://matplotlib.org/users/pyplot_tutorial.html#working-with-text
+	- ajax for database API connections - http://www.w3schools.com/ajax/ajax_examples.asp
 	
 #### Interesting
 	- == and != independence - http://stackoverflow.com/questions/37800001/are-and-mutually-dependent
