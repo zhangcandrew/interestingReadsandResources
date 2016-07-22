@@ -17,3 +17,4 @@
 	- == and != independence - http://stackoverflow.com/questions/37800001/are-and-mutually-dependent
 	- compiler compiling itself - http://stackoverflow.com/questions/38005656/how-can-a-compiler-compile-itself
 	- reverse engineering the Pokemon Go app - https://applidium.com/en/news/unbundling_pokemon_go/
+	- breaking down tinder and facebook - https://defaultnamehere.tumblr.com/post/147747146865/stalking-your-facebook-friends-on-tinder?gags=gabes
