@@ -19,3 +19,4 @@
 	- compiler compiling itself - http://stackoverflow.com/questions/38005656/how-can-a-compiler-compile-itself
 	- reverse engineering the Pokemon Go app - https://applidium.com/en/news/unbundling_pokemon_go/
 	- breaking down tinder and facebook - https://defaultnamehere.tumblr.com/post/147747146865/stalking-your-facebook-friends-on-tinder?gags=gabes
+	- facial recognition on things like facebook - https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78#.8ohm2wx8e
