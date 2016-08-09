@@ -14,6 +14,7 @@
 	- ajax for database API connections - http://www.w3schools.com/ajax/ajax_examples.asp
 	- bare metal c++ - https://arobenko.gitbooks.io/bare_metal_cpp/content/
 	- using Javascript to grab JSONP item online - https://javascriptweblog.wordpress.com/2010/11/29/json-and-jsonp/
+	- hacking a samsung tv- https://iicybersecurity.wordpress.com/2015/07/07/how-to-easily-hack-your-smart-tv-samsung-and-lg/
 	
 #### Interesting
 	- == and != independence - http://stackoverflow.com/questions/37800001/are-and-mutually-dependent
